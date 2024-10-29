@@ -1,6 +1,11 @@
 # 환율 계산기 (Exchange Rate Calculator) 🌍
 
 실시간 환율 정보를 이용하여 다양한 통화 간의 환전을 계산할 수 있는 웹 애플리케이션입니다.
+![image](https://github.com/user-attachments/assets/3af1c307-2417-4113-9164-17190798ceac)
+
+
+https://github.com/user-attachments/assets/9f4fe01c-e0ff-4840-8122-375acc504212
+
 
 ## 주요 기능
 
